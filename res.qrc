@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/resFile">
+        <file>icons8-font-80.png</file>
+        <file>icons8-game-48.png</file>
+        <file>icons8-open-box-48.png</file>
+        <file>icons8-opened-folder-48.png</file>
+        <file>icons8-print.gif</file>
+        <file>icons8-qt-50.png</file>
+        <file>icons8-redo-48 (1).png</file>
+        <file>icons8-redo-48.png</file>
+        <file>icons8-save-48.png</file>
+        <file>icons8-undo-48.png</file>
+        <file>icons8-undo-64.png</file>
+        <file>icons8-about-48.png</file>
+        <file>icons8-about-me-male-50.png</file>
+        <file>icons8-calculator-25.png</file>
+        <file>icons8-copy-48.png</file>
+        <file>icons8-document-25.png</file>
+        <file>icons8-exit-48.png</file>
+        <file>icons8-folder-48.png</file>
+    </qresource>
+</RCC>
